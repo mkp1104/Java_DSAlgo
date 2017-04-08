@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.byteBybyte.package1.abc.java&apos; to &apos;FizzBuzz.java&apos;&#x0D;&#x0A;- Original project: &apos;byteBybyte&apos;&#x0D;&#x0A;- Original element: &apos;com.byteBybyte.package1.abc.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.byteBybyte.package1.FizzBuzz.java&apos;" description="Rename compilation unit &apos;abc.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.byteBybyte.package1{abc.java" name="FizzBuzz.java" references="false" stamp="1488693038975" version="1.0"/>
+</session>

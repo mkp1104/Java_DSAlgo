@@ -1,0 +1,24 @@
+package com.lara;
+import java.sql.ResultSet;
+import java.sql.ResultMetaData;
+import java.sql.ResultSetMetaData;
+import java.sql.Statement;
+public class X {
+	public static void main(String args[]) throws Exception
+	{
+	Statement st=EUtil.getStatement();
+	String s1="select * from employees";
+	ResultSet rs=st.executeQuery(s1);
+	ResultSetMetaData rsmt=rs.getMetaData();
+	int c1=rsmt.getColumnCount();
+	String s1=rsmt.getColumnName(1);
+	String s2=rsmt.getColumnName(2);
+	String s3=rsmt.getColumnName(3);
+	String s4=rsmt.getColumnName(4);
+	System.out.println(c1);
+	System.out.println(s1);
+	System.out.println(s2);
+	System.out.println(s3);
+	System.out.println(s4);
+}
+}

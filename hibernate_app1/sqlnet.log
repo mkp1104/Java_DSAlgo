@@ -1,0 +1,1118 @@
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:33:34
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:33:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:33:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:33:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:34:12
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:34:15
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:34:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:34:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:34:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:35:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:35:36
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:38:33
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:38:40
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:38:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:38:58
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:39:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 12:39:08
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:35:49
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:35:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:35:54
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:35:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:36:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:36:55
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:36:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:37:00
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:37:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:37:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:37:29
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:37:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 14:37:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 16:08:25
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 16:08:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 13-JAN-2014 16:08:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+
+***********************************************************************TOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+
+Fatal NI connect error 12547, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+  Time: 20-JAN-2014 12:04:21
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Tracing not turned on.
+  Time: 20-JAN-2014 12:04:21
+  Tns error struct:
+  Tracing not turned on.
+    ns main err code: 12547
+  Tns error struct:
+        ns main err code: 12547
+TNS-12547: TNS:lost contact
+        ns secondary err code: 12560
+TNS-12547: TNS:lost contact
+    nt main err code: 517
+    ns secondary err code: 12560
+        nt main err code: 517
+TNS-00517: Lost contact
+        nt secondary err code: 54
+TNS-00517: Lost contact
+    nt OS err code: 0
+    nt secondary err code: 54
+    nt OS err code: 0
+    nt OS err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-JAN-2014 12:31:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-JAN-2014 12:32:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-JAN-2014 12:32:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-JAN-2014 12:32:59
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 20-JAN-2014 12:33:01
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2014 22:51:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2014 22:51:21
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2014 22:51:27
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2014 22:51:31
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 23-JAN-2014 22:52:10
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:30:51
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:31:05
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:31:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:31:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:32:14
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:33:23
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:34:18
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:34:20
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:34:48
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:34:52
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:34:56
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:35:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:35:22
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:35:37
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:35:57
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:37:16
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12520, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=Manish-PC)(PORT=1521))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=XE)(CID=(PROGRAM=C:\Program Files\Java\jre7\bin\javaw.exe)(HOST=MANISH-PC)(USER=Manish))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 10.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 10.2.0.1.0 - Production
+  Time: 26-JAN-2014 12:38:39
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12564
+    TNS-12564: TNS:connection refused
+    ns secondary err code: 0
+    nt main err code: 0
+    nt secondary err code: 0
+    nt OS err code: 0

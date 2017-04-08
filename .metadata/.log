@@ -1,0 +1,1709 @@
+!SESSION 2015-10-04 19:02:12.073 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-04 19:03:06.042
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-04 19:03:06.043
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-10-15 21:23:20.273 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-15 21:24:04.193
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-10-15 21:24:04.218
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2015-12-08 15:07:15.355 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.7.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-08 15:08:24.886
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-08 15:08:24.918
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-06-04 22:58:03.300 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -data F:\Documents\JavaResources\eclipse_workspace -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-04 22:58:17.168
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-04 22:58:17.192
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-06-05 11:50:11.148 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data F:\Documents\JavaResources\eclipse_workspace -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-05 11:50:23.469
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-06-05 11:50:23.493
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-10-03 23:20:36.347 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -data F:\Documents\JavaResources\eclipse_workspace -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-10-03 23:20:50.565
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-10-03 23:20:50.586
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-10-10 20:54:47.814 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-10-10 20:55:24.297
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-10-10 20:55:24.313
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2016-11-01 13:13:16.694 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-01 13:15:57.086
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-11-01 13:15:57.133
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-02-18 14:00:34.674 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data F:\Documents\JavaResources\eclipse_workspace -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-02-18 14:00:45.444
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-02-18 14:00:45.466
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2017-02-18 14:02:03.798
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: A resource exists with a different case: '/Thread_part3/bin/com/lara/pack8/util.class'.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:329)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:307)
+	at org.eclipse.core.internal.resources.File.create(File.java:111)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFileContents(AbstractImageBuilder.java:879)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:858)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:189)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:510)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:366)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:303)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:173)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2017-02-18 14:02:03.800
+!MESSAGE A resource exists with a different case: '/Thread_part3/bin/com/lara/pack8/util.class'.
+!SESSION 2017-02-20 00:17:00.628 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-02-20 00:17:14.614
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.core 4 4 2017-02-20 00:18:28.782
+!MESSAGE JavaBuilder handling CoreException
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: A resource exists with a different case: '/Thread_part3/bin/com/lara/pack8/util.class'.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:329)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:307)
+	at org.eclipse.core.internal.resources.File.create(File.java:111)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFileContents(AbstractImageBuilder.java:879)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.writeClassFile(AbstractImageBuilder.java:858)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.acceptResult(AbstractImageBuilder.java:189)
+	at org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:510)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:366)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.compile(BatchImageBuilder.java:178)
+	at org.eclipse.jdt.internal.core.builder.AbstractImageBuilder.compile(AbstractImageBuilder.java:303)
+	at org.eclipse.jdt.internal.core.builder.BatchImageBuilder.build(BatchImageBuilder.java:60)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.buildAll(JavaBuilder.java:254)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:173)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:726)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:199)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:239)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:292)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:295)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:351)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:374)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.eclipse.core.resources 4 275 2017-02-20 00:18:28.954
+!MESSAGE A resource exists with a different case: '/Thread_part3/bin/com/lara/pack8/util.class'.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-02-20 00:18:32.545
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-02-20 00:18:32.546
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-03 23:07:49.387 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-03 23:08:48.236
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-03 23:08:48.302
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-05 20:46:06.637 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-05 21:04:03.366
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-05 21:05:18.844
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-05 21:05:18.844
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-19 13:58:49.184 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-19 13:58:57.193
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 13:59:56.459
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 13:59:56.460
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-19 14:27:37.552 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 14:54:15.013
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 14:54:15.014
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:49.984
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:49.984
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:55.657
+!MESSAGE SVN: '0x00400107: Get Repository Resource Revision' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:55.657
+!MESSAGE Get repository resource revision operation failed.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryResource.getRevision(SVNRepositoryResource.java:95)
+	at org.eclipse.team.svn.ui.operation.GetRemoteResourceRevisionOperation.runImpl(GetRemoteResourceRevisionOperation.java:40)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.operation.CompositeOperation.runImpl(CompositeOperation.java:99)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.team.svn.ui.utility.ScheduledOperationWrapper.run(ScheduledOperationWrapper.java:37)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:55.657
+!MESSAGE SVN: '0x00400107: Get Repository Resource Revision' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:55.657
+!MESSAGE Get repository resource revision operation failed.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryResource.getRevision(SVNRepositoryResource.java:95)
+	at org.eclipse.team.svn.ui.operation.GetRemoteResourceRevisionOperation.runImpl(GetRemoteResourceRevisionOperation.java:40)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.operation.CompositeOperation.runImpl(CompositeOperation.java:99)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.team.svn.ui.utility.ScheduledOperationWrapper.run(ScheduledOperationWrapper.java:37)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:55.657
+!MESSAGE SVN: '0x00000230: Get Repository Folder Children' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:55.657
+!MESSAGE Get repository folder children operation failed.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryContainer.getChildren(SVNRepositoryContainer.java:77)
+	at org.eclipse.team.svn.core.operation.remote.GetRemoteFolderChildrenOperation.runImpl(GetRemoteFolderChildrenOperation.java:76)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.operation.CompositeOperation.runImpl(CompositeOperation.java:99)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.team.svn.ui.utility.ScheduledOperationWrapper.run(ScheduledOperationWrapper.java:37)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:55.657
+!MESSAGE SVN: '0x00000230: Get Repository Folder Children' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:55:55.657
+!MESSAGE Get repository folder children operation failed.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryContainer.getChildren(SVNRepositoryContainer.java:77)
+	at org.eclipse.team.svn.core.operation.remote.GetRemoteFolderChildrenOperation.runImpl(GetRemoteFolderChildrenOperation.java:76)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.operation.CompositeOperation.runImpl(CompositeOperation.java:99)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.team.svn.ui.utility.ScheduledOperationWrapper.run(ScheduledOperationWrapper.java:37)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:58:06.247
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:58:06.247
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:58:56.269
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:58:56.269
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:59:04.412
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 14:59:04.428
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:12:47.446
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:12:47.446
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:14:39.477
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:14:39.477
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-03-19 15:18:42.186
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-03-19 15:18:42.186
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-19 15:18:42.186
+!MESSAGE Software being installed: SVNKit 1.2.2 Implementation (Optional) 2.2.2.I20110124-1700 (org.polarion.eclipse.team.svn.connector.svnkit15.feature.group 2.2.2.I20110124-1700)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-19 15:18:42.186
+!MESSAGE Missing requirement: SVNKit 1.2.2 Implementation (Optional) 2.2.2.I20110124-1700 (org.polarion.eclipse.team.svn.connector.svnkit15.feature.group 2.2.2.I20110124-1700) requires 'org.eclipse.team.svn.feature.group [0.7.9.I20110101-1700,1.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-03-19 15:18:42.201
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-03-19 15:18:42.201
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-19 15:18:42.201
+!MESSAGE Software being installed: SVNKit 1.2.2 Implementation (Optional) 2.2.2.I20110124-1700 (org.polarion.eclipse.team.svn.connector.svnkit15.feature.group 2.2.2.I20110124-1700)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-19 15:18:42.201
+!MESSAGE Missing requirement: SVNKit 1.2.2 Implementation (Optional) 2.2.2.I20110124-1700 (org.polarion.eclipse.team.svn.connector.svnkit15.feature.group 2.2.2.I20110124-1700) requires 'org.eclipse.team.svn.feature.group [0.7.9.I20110101-1700,1.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-03-19 15:18:42.245
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-03-19 15:18:42.245
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-19 15:18:42.245
+!MESSAGE Software being installed: SVNKit 1.2.2 Implementation (Optional) 2.2.2.I20110124-1700 (org.polarion.eclipse.team.svn.connector.svnkit15.feature.group 2.2.2.I20110124-1700)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-19 15:18:42.245
+!MESSAGE Missing requirement: SVNKit 1.2.2 Implementation (Optional) 2.2.2.I20110124-1700 (org.polarion.eclipse.team.svn.connector.svnkit15.feature.group 2.2.2.I20110124-1700) requires 'org.eclipse.team.svn.feature.group [0.7.9.I20110101-1700,1.0.0)' but it could not be found
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10053 2017-03-19 15:18:42.246
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 10053 2017-03-19 15:18:42.246
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-19 15:18:42.246
+!MESSAGE Software being installed: SVNKit 1.2.2 Implementation (Optional) 2.2.2.I20110124-1700 (org.polarion.eclipse.team.svn.connector.svnkit15.feature.group 2.2.2.I20110124-1700)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2017-03-19 15:18:42.246
+!MESSAGE Missing requirement: SVNKit 1.2.2 Implementation (Optional) 2.2.2.I20110124-1700 (org.polarion.eclipse.team.svn.connector.svnkit15.feature.group 2.2.2.I20110124-1700) requires 'org.eclipse.team.svn.feature.group [0.7.9.I20110101-1700,1.0.0)' but it could not be found
+!SESSION 2017-03-19 15:38:25.113 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 15:39:06.864
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 15:39:06.864
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:39:36.771
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:39:36.771
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.epp.mpc.ui 1 0 2017-03-19 15:41:47.147
+!MESSAGE There is nothing to update.
+!SESSION 2017-03-19 15:42:21.901 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 15:42:54.451
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 15:42:54.471
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:43:32.309
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:43:32.309
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:43:58.797
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:43:58.797
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:44:08.993
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:44:08.993
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SESSION 2017-03-19 15:44:56.886 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 15:45:23.595
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 15:45:23.616
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2017-03-19 15:46:50.637 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 15:47:16.592
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-19 15:47:16.608
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:47:22.323
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error
+!SUBENTRY 1 org.eclipse.team.svn.core.svnnature 4 0 2017-03-19 15:47:22.323
+!MESSAGE SVN: '0x00400006: Validate Repository Location' operation finished with error: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+!STACK 0
+org.eclipse.team.svn.core.operation.UnreportableException: Selected SVN connector library is not available or cannot be loaded.
+If you selected native JavaHL connector, please check if binaries are available or install and select pure Java Subversion connector from the plug-in connectors update site.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Connector.
+	at org.eclipse.team.svn.core.extension.factory.ISVNConnectorFactory$1.createConnector(ISVNConnectorFactory.java:114)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.newProxyInstance(SVNRepositoryLocation.java:845)
+	at org.eclipse.team.svn.core.svnstorage.SVNRepositoryLocation.acquireSVNProxy(SVNRepositoryLocation.java:612)
+	at org.eclipse.team.svn.core.utility.SVNUtility.validateRepositoryLocation(SVNUtility.java:908)
+	at org.eclipse.team.svn.ui.wizard.shareproject.AddRepositoryLocationPage$3.runImpl(AddRepositoryLocationPage.java:214)
+	at org.eclipse.team.svn.core.operation.AbstractActionOperation.run(AbstractActionOperation.java:82)
+	at org.eclipse.team.svn.core.operation.LoggedOperation.run(LoggedOperation.java:40)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTask(ProgressMonitorUtility.java:104)
+	at org.eclipse.team.svn.core.utility.ProgressMonitorUtility.doTaskExternal(ProgressMonitorUtility.java:90)
+	at org.eclipse.team.svn.ui.utility.DefaultCancellableOperationWrapper.run(DefaultCancellableOperationWrapper.java:55)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+
+!ENTRY org.eclipse.epp.mpc.ui 4 0 2017-03-22 20:55:52.477
+!MESSAGE Marketplace service is temporarily unavailable.  Please try again later.
+!STACK 1
+org.eclipse.epp.internal.mpc.core.service.ServiceUnavailableException: Marketplace service is temporarily unavailable.  Please try again later.
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.handleServiceUnavailable(TransportFactory.java:106)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory.handleStreamExceptions(TransportFactory.java:90)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory$1.stream(TransportFactory.java:71)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:141)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:80)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.listMarkets(DefaultMarketplaceService.java:163)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.listMarkets(CachingMarketplaceService.java:55)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceDiscoveryStrategy.findMarketplaceCategory(MarketplaceDiscoveryStrategy.java:467)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceDiscoveryStrategy.performDiscovery(MarketplaceDiscoveryStrategy.java:144)
+	at org.eclipse.equinox.internal.p2.discovery.Catalog.performDiscovery(Catalog.java:85)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.performDiscovery(MarketplaceCatalog.java:276)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$6.run(CatalogViewer.java:569)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: org.eclipse.core.runtime.CoreException: HTTP Server 'Service Unavailable': http://marketplace.eclipse.org/api/p?product=org.eclipse.epp.package.jee.product&platform.version=4.3.0.v20130605-2000&os=win32&java.version=1.8.0_60&client=org.eclipse.epp.mpc.core&product.version=2.0.0.20130613-0530&runtime.version=3.9.0.v20130326-1255&ws=win32&nl=en_IN
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:35)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory$1.stream(TransportFactory.java:69)
+	... 10 more
+Caused by: org.eclipse.ecf.filetransfer.IncomingFileTransferException: HttpComponents connection error response code 503.
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:665)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:879)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:570)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.read(FileReader.java:273)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:172)
+	... 16 more
+!SUBENTRY 1 org.eclipse.epp.mpc.core 4 503 2017-03-22 20:55:52.477
+!MESSAGE Marketplace service is temporarily unavailable.  Please try again later.
+!STACK 1
+org.eclipse.core.runtime.CoreException: HTTP Server 'Service Unavailable': http://marketplace.eclipse.org/api/p?product=org.eclipse.epp.package.jee.product&platform.version=4.3.0.v20130605-2000&os=win32&java.version=1.8.0_60&client=org.eclipse.epp.mpc.core&product.version=2.0.0.20130613-0530&runtime.version=3.9.0.v20130326-1255&ws=win32&nl=en_IN
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:35)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory$1.stream(TransportFactory.java:69)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:141)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:80)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.listMarkets(DefaultMarketplaceService.java:163)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.listMarkets(CachingMarketplaceService.java:55)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceDiscoveryStrategy.findMarketplaceCategory(MarketplaceDiscoveryStrategy.java:467)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceDiscoveryStrategy.performDiscovery(MarketplaceDiscoveryStrategy.java:144)
+	at org.eclipse.equinox.internal.p2.discovery.Catalog.performDiscovery(Catalog.java:85)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.performDiscovery(MarketplaceCatalog.java:276)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$6.run(CatalogViewer.java:569)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+Caused by: org.eclipse.ecf.filetransfer.IncomingFileTransferException: HttpComponents connection error response code 503.
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:665)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:879)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:570)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.read(FileReader.java:273)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:172)
+	... 16 more
+!SUBENTRY 2 org.eclipse.equinox.p2.transport.ecf 4 1002 2017-03-22 20:55:52.477
+!MESSAGE HTTP Server 'Service Unavailable': http://marketplace.eclipse.org/api/p?product=org.eclipse.epp.package.jee.product&platform.version=4.3.0.v20130605-2000&os=win32&java.version=1.8.0_60&client=org.eclipse.epp.mpc.core&product.version=2.0.0.20130613-0530&runtime.version=3.9.0.v20130326-1255&ws=win32&nl=en_IN
+!STACK 1
+org.eclipse.ecf.filetransfer.IncomingFileTransferException: HttpComponents connection error response code 503.
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:665)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:879)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:570)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.read(FileReader.java:273)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.epp.internal.mpc.core.util.AbstractP2TransportFactory.invokeStream(AbstractP2TransportFactory.java:35)
+	at org.eclipse.epp.internal.mpc.core.util.TransportFactory$1.stream(TransportFactory.java:69)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:141)
+	at org.eclipse.epp.internal.mpc.core.service.RemoteMarketplaceService.processRequest(RemoteMarketplaceService.java:80)
+	at org.eclipse.epp.internal.mpc.core.service.DefaultMarketplaceService.listMarkets(DefaultMarketplaceService.java:163)
+	at org.eclipse.epp.internal.mpc.core.service.CachingMarketplaceService.listMarkets(CachingMarketplaceService.java:55)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceDiscoveryStrategy.findMarketplaceCategory(MarketplaceDiscoveryStrategy.java:467)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceDiscoveryStrategy.performDiscovery(MarketplaceDiscoveryStrategy.java:144)
+	at org.eclipse.equinox.internal.p2.discovery.Catalog.performDiscovery(Catalog.java:85)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.performDiscovery(MarketplaceCatalog.java:276)
+	at org.eclipse.equinox.internal.p2.ui.discovery.wizards.CatalogViewer$6.run(CatalogViewer.java:569)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+!SUBENTRY 3 org.eclipse.ecf.identity 4 0 2017-03-22 20:55:52.477
+!MESSAGE HttpComponents connection error response code 503.
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 20:56:19.924
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4378)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.SWT.error(SWT.java:4283)
+	at org.eclipse.swt.custom.StyledText.getOffsetAtLocation(StyledText.java:4399)
+	at org.eclipse.epp.internal.mpc.ui.wizards.DiscoveryItem$LinkListener.mouseUp(DiscoveryItem.java:131)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:220)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.epp.internal.mpc.ui.commands.MarketplaceWizardCommand.execute(MarketplaceWizardCommand.java:191)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.executeItem(HandledContributionItem.java:850)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.handleWidgetSelection(HandledContributionItem.java:743)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem.access$7(HandledContributionItem.java:727)
+	at org.eclipse.e4.ui.workbench.renderers.swt.HandledContributionItem$4.handleEvent(HandledContributionItem.java:662)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.core.jobs 2 2 2017-03-22 21:32:06.182
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.epp.internal.mpc.ui.wizards.ProvisioningJobListener$1
+!SESSION 2017-03-22 21:32:08.272 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-22 21:55:53.141
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2017-03-22 21:55:53.150
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Manish Kumar Prasad'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:12.305
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:13.843
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:14.683
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:15.463
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:16.148
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:16.212
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:16.566
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:16.619
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.ui 4 0 2017-03-22 21:57:17.737
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizardSelectionPage.setLocation(CheckoutWizardSelectionPage.java:130)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:199)
+	at org.tigris.subversion.subclipse.ui.wizards.CheckoutWizard.getNextPage(CheckoutWizard.java:166)
+	at org.eclipse.jface.wizard.WizardPage.getNextPage(WizardPage.java:172)
+	at org.eclipse.jface.wizard.WizardDialog.nextPressed(WizardDialog.java:908)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:428)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.egit.ui 4 0 2017-03-22 22:45:54.561
+!MESSAGE Creating directories for F:\Software\IT_software\Eclipse Kepler\eclipse\https:\github.com\mkp1104\Restful-API-using-Java-Jersey-and-MongoDB.git\Restful-API-using-Java-Jersey-and-MongoDB\.git failed
+!STACK 0
+java.io.IOException: Creating directories for F:\Software\IT_software\Eclipse Kepler\eclipse\https:\github.com\mkp1104\Restful-API-using-Java-Jersey-and-MongoDB.git\Restful-API-using-Java-Jersey-and-MongoDB\.git failed
+	at org.eclipse.jgit.util.FileUtils.mkdirs(FileUtils.java:315)
+	at org.eclipse.jgit.internal.storage.file.FileRepository.create(FileRepository.java:251)
+	at org.eclipse.egit.ui.internal.repository.NewRepositoryWizard.performFinish(NewRepositoryWizard.java:65)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:827)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:432)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:628)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:826)
+	at org.eclipse.jface.window.Window.open(Window.java:802)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:259)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:279)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:243)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:224)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:167)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:213)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:420)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:157)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:584)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:501)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4170)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3759)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:138)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:610)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-03-22 22:48:49.029
+!MESSAGE No repository found at http://download.eclipse.org/egit/github/updates-2.3.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-03-22 22:49:03.722
+!MESSAGE No repository found at http://download.eclipse.org/egit/github/updates-2.3.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-03-22 22:49:09.709
+!MESSAGE No repository found at http://download.eclipse.org/egit/github/updates-2.3.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-03-22 22:49:25.819
+!MESSAGE No repository found at http://download.eclipse.org/egit/github/updates-2.3.
+!SESSION 2017-03-30 22:19:45.821 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-03-30 22:19:57.168
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2017-03-30 22:24:11.465
+!MESSAGE Could not auto-share project TechGig
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: Provided SVN information does not match that on disk for project 'TechGig'.
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2017-03-30 22:24:11.503
+!MESSAGE Provided SVN information does not match that on disk for project 'TechGig'.
