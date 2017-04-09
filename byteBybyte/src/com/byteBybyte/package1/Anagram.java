@@ -1,9 +1,21 @@
 package com.byteBybyte.package1;
 
+/**
+ * @author Manish Kumar Prasad
+ *
+ */
 public class Anagram {
+/**
+ * @param args
+ */
 public static void main(String[] args) {
 	System.out.println(isAnagram("abcd", "bcda"));
 }
+/**
+ * @param s1
+ * @param s2
+ * @return
+ */
 public static boolean isAnagram(String s1, String s2) {
     if (s1.length() != s2.length()) return false;
  
